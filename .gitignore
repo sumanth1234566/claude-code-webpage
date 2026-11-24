@@ -1,0 +1,25 @@
+# dependencies and build output
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# secrets (keep .env.example)
+.env
+.env*.local
+
+# local tooling (Claude Code, agents, Playwright)
+.claude/
+.agents/
+skills/
+skills-lock.json
+.playwright/
+.playwright-cli/
+bash.exe.stackdump
+
+# original media; the site uses the copies in public/media/
+/animation.mp4
+/ich1.png
+/ich2.png
+/style.png
