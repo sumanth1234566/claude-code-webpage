@@ -17,9 +17,3 @@ skills-lock.json
 .playwright/
 .playwright-cli/
 bash.exe.stackdump
-
-# original media; the site uses the copies in public/media/
-/animation.mp4
-/ich1.png
-/ich2.png
-/style.png
