@@ -35,7 +35,7 @@ export function Header() {
     <header className="sticky top-0 z-50 border-b border-black/5 bg-white/90 backdrop-blur">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between gap-6 px-6">
         <Link href="/" className="text-xl font-extrabold tracking-tight text-ink" aria-label="GoFIBER home">
-          Go<span className="text-brand-purple">FIBER</span>
+          <span className="text-brand-purple">Go</span>FIBER
         </Link>
 
         <nav aria-label="Main" className="hidden lg:block">
