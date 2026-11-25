@@ -23,7 +23,7 @@ export default function AboutPage() {
       <Section id="story" title="Who we are">
         <div className="max-w-3xl space-y-5 text-lg text-text-muted">
           <p>
-            GoFIBER was founded in {site.founded} and is headquartered in {site.hq}. We provide high-speed business internet,
+            GoFIBER was founded in {site.founded} and is headquartered in {site.hq}. We provide high speed business internet,
             VoIP and managed network services to businesses in {site.areas.join(" and ")}.
           </p>
           <p>

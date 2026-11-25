@@ -23,9 +23,9 @@ export const products: Product[] = [
   {
     slug: "internet",
     name: "Business Internet",
-    short: "High-speed business internet on our own fiber.",
+    short: "High speed business internet on our own fiber.",
     summary:
-      "High-speed business internet delivered over GoFIBER's own fiber network, without reselling through phone or cable companies.",
+      "High speed business internet delivered over GoFIBER's own fiber network, without reselling through phone or cable companies.",
     benefits: [
       { title: "Our own last mile", body: "Your connection runs on fiber we own and operate, end to end." },
       { title: "Built for reliability", body: "A network we build, run and maintain ourselves." },
@@ -47,7 +47,7 @@ export const products: Product[] = [
     seo: {
       title: "Business Internet Long Beach & Irvine",
       description:
-        "High-speed business internet on GoFIBER's own fiber network in Long Beach, Irvine and across Southern California. Request a quote.",
+        "High speed business internet on GoFIBER's own fiber network in Long Beach, Irvine and across Southern California. Request a quote.",
     },
   },
   {

@@ -10,7 +10,7 @@ import { differentiators, site } from "@/content/site";
 export const metadata: Metadata = {
   title: { absolute: "Business Internet & VoIP in Long Beach and Irvine | GoFIBER Business Fiber" },
   description:
-    "GoFIBER provides high-speed business internet, VoIP and managed network services over its own fiber network in Long Beach, Irvine and Southern California.",
+    "GoFIBER provides high speed business internet, VoIP and managed network services over its own fiber network in Long Beach, Irvine and Southern California.",
   alternates: { canonical: "/" },
 };
 

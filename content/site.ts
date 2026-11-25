@@ -9,7 +9,7 @@ export const site = {
   areas: ["Long Beach", "Irvine"],
   coverage: "200+ square miles of Southern California",
   pitch:
-    "GoFIBER provides high-speed business internet, VoIP and managed network services over its own fiber network in Southern California.",
+    "GoFIBER provides high speed business internet, VoIP and managed network services over its own fiber network in Southern California.",
   yearsInBusiness: "20+ years",
   /** Final domain not decided yet; set NEXT_PUBLIC_SITE_URL when it is. */
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://www.gofiber.com",
